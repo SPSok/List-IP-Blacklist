@@ -254,18 +254,4 @@
 124.153.144.195
 132.148.76.25
 222.110.220.110
-[Alerting Response] 
-
-Terdeteksi Event sebagai berikut : 
-
-Client : KAI
-
-Security Event : Public to Public Exploit Anomaly
-
-Jumlah Alert : 2
-
-Severity : High
-
-Alert tersebut sedang proses analisa oleh tim Analyst
-
-Terimakasih
+185.242.226.48
