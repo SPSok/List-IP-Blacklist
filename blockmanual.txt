@@ -22873,7 +22873,6 @@ nextcloud.tulach.cc
 www.tulach.cc
 tulach.cc
 riddenstorm.net
-1.1.1.1.in-addr.arpa
 0.0.a.1.a.6.7.9.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.8.0.8.0.8.0.ip6.arpa
 1.0.0.1.in-addr.arpa
 giencoco.com
